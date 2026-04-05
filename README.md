@@ -1,3 +1,5 @@
-Pobierz zipa
-Odpal plik ptak2 5.0.exe
-Graj se czy cos ¯\_(ツ)_/¯ 
+1. Pobierz zipa
+2. Odpal plik ptak2 5.0.exe
+3. Graj se czy cos ¯\_(ツ)_/¯ 
+
+
