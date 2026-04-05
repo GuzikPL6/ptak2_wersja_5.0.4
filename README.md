@@ -7,4 +7,5 @@
 7. Wejdź w ten folder
 8. Poszukaj i odpal plik ptak2 5.0.exe
 9. Jak ci sie odpali windows defender to kliknij "więcej informacji" i "odpal mimo to"
-10. Graj se czy cos ¯\_(ツ)_/¯ 
+10. Gra ci sie odpali, zasady masz w zakładce info albo leć na czuja
+11. Graj se czy cos ¯\_(ツ)_/¯ 
