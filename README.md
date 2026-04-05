@@ -6,4 +6,5 @@
 6. Pojawił ci się folder w wybranej lokalizaji ptak2... coś tam dalej, ale juz nie .zip
 7. Wejdź w ten folder
 8. Poszukaj i odpal plik ptak2 5.0.exe
-9. Graj se czy cos ¯\_(ツ)_/¯ 
+9. Jak ci sie odpali windows defender to kliknij "więcej informacji" i "odpal mimo to"
+10. Graj se czy cos ¯\_(ツ)_/¯ 
